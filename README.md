@@ -1,7 +1,7 @@
 # 🚀 91DaysOfDevOps
 ### Learn • Build • Practice • Become Job-Ready
 
-Welcome to **90DaysOfDevOps**, a structured and hands-on DevOps challenge by **TrainWithShubham**.
+Welcome to **91DaysOfDevOps**, a structured and hands-on DevOps challenge by **TrainWithSonu**.
 
 This repository is designed to help you **build real DevOps skills step by step in 90 days** — not by watching endless videos, but by **doing daily tasks**, building projects, and thinking like a **production-ready DevOps engineer**.
 
@@ -10,9 +10,9 @@ This is a **discipline + execution challenge**.
 
 ---
 
-## 🎯 What is #90DaysOfDevOps?
+## 🎯 What is #91DaysOfDevOps?
 
-**#90DaysOfDevOps** is a **day-wise DevOps learning challenge** where:
+**#91DaysOfDevOps** is a **day-wise DevOps learning challenge** where:
 
 - Every day has **one clear task**
 - Every task has a **real-world DevOps outcome**
@@ -20,7 +20,7 @@ This is a **discipline + execution challenge**.
 - Every concept is reinforced through **hands-on practice**
 - Learning is aligned with **live classes and recordings**
 
-By the end of 90 days, you will have:
+By the end of 91 days, you will have:
 - Strong DevOps fundamentals
 - Multiple mini-projects
 - One end-to-end DevOps capstone project
@@ -46,7 +46,7 @@ No prior DevOps experience is required.
 ## 🗂 Repository Structure
 
 ```
-90DaysOfDevOps/
+91DaysOfDevOps/
 │
 ├── README.md
 ├── CONTRIBUTING.md
@@ -61,7 +61,7 @@ No prior DevOps experience is required.
 ├── day-02/
 │   └── README.md
 ├── ...
-├── day-90/
+├── day-91/
 │   └── README.md
 ```
 
@@ -111,9 +111,9 @@ Even **30–60 minutes per day** is enough if done honestly.
 Share your progress on LinkedIn:
 
 ```
-#90DaysOfDevOps
+#91DaysOfDevOps
 #DevOpsKaJosh
-#TrainWithShubham
+#TrainWithSonu
 ```
 
 ---
@@ -127,4 +127,4 @@ One day at a time.
 One commit at a time.
 
 Happy Learning  
-**TrainWithShubham**
+**TrainWithSonu**
